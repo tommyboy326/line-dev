@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "LINE platform development skills — Messaging API, LINE Login, LIFF, MINI App, and Notification Messages. Bilingual (English/繁體中文). Provides API references, webhook security, OAuth/PKCE patterns, Flex Message examples, and expert guidance for building LINE integrations.",
   "author": {
-    "name": "kaiwu",
-    "url": "https://github.com/kaiwu/line-dev"
+    "name": "tommyboy326",
+    "url": "https://github.com/tommyboy326/line-dev"
   }
 }

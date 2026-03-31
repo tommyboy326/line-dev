@@ -1,0 +1,11 @@
+{
+  "knowledge_domain": "LINE Messaging API",
+  "assess_scope": [
+    "- The skill covers LINE Messaging API only: webhooks, bots, message types, Flex Messages, Rich Menus, channel access tokens, and message sending APIs.",
+    "- Do NOT trigger for LINE Login (OAuth), LIFF, LINE MINI App, LINE Notification Messages (PNP/LON), or LINE sticker creation."
+  ],
+  "improve_scope": [
+    "- The skill covers LINE Messaging API ONLY: webhooks, bots, reply/push/multicast/broadcast/narrowcast, Flex Messages, Rich Menus, channel access tokens.",
+    "- NOT: LINE Login, LIFF, LINE MINI App, LINE Notification Messages (PNP/LON), LINE stickers/creators market."
+  ]
+}

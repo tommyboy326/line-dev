@@ -1,0 +1,11 @@
+{
+  "knowledge_domain": "LINE MINI App",
+  "assess_scope": [
+    "- The skill covers LINE MINI App: service messages, notification tokens, Common Profile Quick Fill, in-app purchase, console setup (3 channels), submission review, verified vs unverified.",
+    "- Do NOT trigger for: general LIFF (non-MINI App), Messaging API bots, LINE Login OAuth, LINE Notification Messages (PNP/LON)."
+  ],
+  "improve_scope": [
+    "- The skill covers LINE MINI App ONLY: service messages, notification tokens, Quick Fill, IAP, MINI App console/channel setup, submission review.",
+    "- NOT: general LIFF SDK usage, Messaging API, LINE Login, LINE Notification Messages (PNP)."
+  ]
+}

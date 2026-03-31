@@ -1,0 +1,11 @@
+{
+  "knowledge_domain": "LIFF (LINE Front-end Framework)",
+  "assess_scope": [
+    "- The skill covers LIFF (LINE Front-end Framework): liff.init(), liff.getProfile(), liff.sendMessages(), liff.closeWindow(), LIFF plugins, Pluggable SDK, LIFF CLI, and browser environment differences.",
+    "- Do NOT trigger for: Messaging API bots/webhooks, LINE Login OAuth (non-LIFF), LINE MINI App specifics, LINE Notification Messages."
+  ],
+  "improve_scope": [
+    "- The skill covers LIFF ONLY: all liff.* APIs, LIFF browser vs external browser, LIFF plugins/Pluggable SDK, LIFF CLI, LIFF development and debugging.",
+    "- NOT: Messaging API, LINE Login OAuth flow (outside LIFF), LINE MINI App submission, LINE Notification Messages."
+  ]
+}

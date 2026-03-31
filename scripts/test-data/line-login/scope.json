@@ -1,0 +1,11 @@
+{
+  "knowledge_domain": "LINE Login",
+  "assess_scope": [
+    "- The skill covers LINE Login v2.1: OAuth 2.0 authorization code flow, PKCE, ID token verification, token management, user profile, and security.",
+    "- Do NOT trigger for: Messaging API webhooks/bots, LIFF (liff.init/sendMessages), LINE MINI App, LINE Notification Messages."
+  ],
+  "improve_scope": [
+    "- The skill covers LINE Login ONLY: OAuth 2.0, PKCE, authorization URL, token exchange, ID token verification, refresh/revoke tokens, user profile.",
+    "- NOT: Messaging API, LIFF SDK, LINE MINI App, LINE Notification Messages."
+  ]
+}

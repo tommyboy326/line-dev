@@ -1,0 +1,56 @@
+{
+  "type": "flex",
+  "altText": "Product card",
+  "contents": {
+    "type": "bubble",
+    "hero": {
+      "type": "image",
+      "url": "https://example.com/product.jpg",
+      "size": "full",
+      "aspectRatio": "20:13",
+      "aspectMode": "cover",
+      "action": { "type": "uri", "uri": "https://example.com/product/1" }
+    },
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        { "type": "text", "text": "Product Name", "weight": "bold", "size": "xl" },
+        {
+          "type": "box", "layout": "baseline", "margin": "md",
+          "contents": [
+            { "type": "icon", "size": "sm", "url": "https://example.com/star.png" },
+            { "type": "text", "text": "4.5", "size": "sm", "color": "#999999", "margin": "md", "flex": 0 }
+          ]
+        },
+        {
+          "type": "box", "layout": "vertical", "margin": "lg", "spacing": "sm",
+          "contents": [
+            {
+              "type": "box", "layout": "baseline", "spacing": "sm",
+              "contents": [
+                { "type": "text", "text": "Price", "color": "#aaaaaa", "size": "sm", "flex": 1 },
+                { "type": "text", "text": "NT$999", "wrap": true, "color": "#1DB446", "size": "sm", "flex": 5, "weight": "bold" }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "footer": {
+      "type": "box",
+      "layout": "vertical",
+      "spacing": "sm",
+      "contents": [
+        {
+          "type": "button", "style": "primary", "height": "sm",
+          "action": { "type": "uri", "label": "Buy Now", "uri": "https://example.com/buy/1" }
+        },
+        {
+          "type": "button", "height": "sm",
+          "action": { "type": "postback", "label": "Add to Cart", "data": "action=addCart&id=1" }
+        }
+      ]
+    }
+  }
+}

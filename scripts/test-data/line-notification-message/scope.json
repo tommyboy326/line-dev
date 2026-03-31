@@ -1,0 +1,11 @@
+{
+  "knowledge_domain": "LINE Notification Messages",
+  "assess_scope": [
+    "- The skill covers LINE Notification Messages (LON/PNP): phone-number-based push for corporate customers, SHA256 hashing, template and flexible types, delivery conditions, delivery webhook.",
+    "- Do NOT trigger for: Messaging API push/multicast (userId-based), LINE MINI App service messages (notification token), LIFF, LINE Login."
+  ],
+  "improve_scope": [
+    "- The skill covers LINE Notification Messages (LON/PNP) ONLY: phone number push, SHA256 hashing E.164, template vs flexible, pnp/push endpoint, delivery webhook.",
+    "- NOT: Messaging API push/multicast/broadcast (userId-based), LINE MINI App service messages, LIFF, LINE Login."
+  ]
+}

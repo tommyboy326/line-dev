@@ -1,0 +1,54 @@
+{
+  "type": "flex",
+  "altText": "Appointment confirmation",
+  "contents": {
+    "type": "bubble",
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        { "type": "text", "text": "✓ Confirmed", "weight": "bold", "color": "#1DB446", "size": "xl" },
+        { "type": "separator", "margin": "lg" },
+        {
+          "type": "box", "layout": "vertical", "margin": "lg", "spacing": "sm",
+          "contents": [
+            {
+              "type": "box", "layout": "baseline", "spacing": "sm",
+              "contents": [
+                { "type": "text", "text": "Date", "color": "#aaaaaa", "size": "sm", "flex": 2 },
+                { "type": "text", "text": "Jan 20, 2024", "wrap": true, "color": "#666666", "size": "sm", "flex": 5 }
+              ]
+            },
+            {
+              "type": "box", "layout": "baseline", "spacing": "sm",
+              "contents": [
+                { "type": "text", "text": "Time", "color": "#aaaaaa", "size": "sm", "flex": 2 },
+                { "type": "text", "text": "14:00 - 15:00", "wrap": true, "color": "#666666", "size": "sm", "flex": 5 }
+              ]
+            },
+            {
+              "type": "box", "layout": "baseline", "spacing": "sm",
+              "contents": [
+                { "type": "text", "text": "Place", "color": "#aaaaaa", "size": "sm", "flex": 2 },
+                { "type": "text", "text": "Room 101, Example Building", "wrap": true, "color": "#666666", "size": "sm", "flex": 5 }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "footer": {
+      "type": "box", "layout": "vertical", "spacing": "sm",
+      "contents": [
+        {
+          "type": "button", "style": "primary",
+          "action": { "type": "uri", "label": "Add to Calendar", "uri": "https://example.com/calendar" }
+        },
+        {
+          "type": "button",
+          "action": { "type": "postback", "label": "Cancel", "data": "action=cancel&apptId=abc123" }
+        }
+      ]
+    }
+  }
+}

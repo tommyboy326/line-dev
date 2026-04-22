@@ -1,0 +1,82 @@
+[
+  {
+    "skill": "messaging-api",
+    "label": "Messaging API reference overview",
+    "url": "https://developers.line.biz/en/reference/messaging-api/"
+  },
+  {
+    "skill": "messaging-api",
+    "label": "Webhook — receiving messages",
+    "url": "https://developers.line.biz/en/docs/messaging-api/receiving-messages/"
+  },
+  {
+    "skill": "messaging-api",
+    "label": "Channel access tokens",
+    "url": "https://developers.line.biz/en/docs/messaging-api/channel-access-tokens/"
+  },
+  {
+    "skill": "messaging-api",
+    "label": "Flex Message elements",
+    "url": "https://developers.line.biz/en/docs/messaging-api/flex-message-elements/"
+  },
+  {
+    "skill": "messaging-api",
+    "label": "Message types",
+    "url": "https://developers.line.biz/en/docs/messaging-api/message-types/"
+  },
+  {
+    "skill": "messaging-api",
+    "label": "Rich menus",
+    "url": "https://developers.line.biz/en/docs/messaging-api/using-rich-menus/"
+  },
+  {
+    "skill": "line-login",
+    "label": "LINE Login overview",
+    "url": "https://developers.line.biz/en/docs/line-login/"
+  },
+  {
+    "skill": "line-login",
+    "label": "LINE Login — integrate (OAuth/PKCE)",
+    "url": "https://developers.line.biz/en/docs/line-login/integrate-line-login/"
+  },
+  {
+    "skill": "line-login",
+    "label": "LINE Login security checklist",
+    "url": "https://developers.line.biz/en/docs/line-login/security-checklist/"
+  },
+  {
+    "skill": "line-liff",
+    "label": "LIFF overview",
+    "url": "https://developers.line.biz/en/docs/liff/"
+  },
+  {
+    "skill": "line-liff",
+    "label": "LIFF API reference",
+    "url": "https://developers.line.biz/en/reference/liff/"
+  },
+  {
+    "skill": "line-mini-app",
+    "label": "LINE MINI App overview",
+    "url": "https://developers.line.biz/en/docs/line-mini-app/"
+  },
+  {
+    "skill": "line-mini-app",
+    "label": "LINE MINI App API reference",
+    "url": "https://developers.line.biz/en/reference/line-mini-app/"
+  },
+  {
+    "skill": "line-notification-message",
+    "label": "LINE Notification Messages overview",
+    "url": "https://developers.line.biz/en/docs/partner-docs/line-notification-messages/overview/"
+  },
+  {
+    "skill": "line-notification-message",
+    "label": "LINE Notification Messages technical specs",
+    "url": "https://developers.line.biz/en/docs/partner-docs/line-notification-messages/technical-specs/"
+  },
+  {
+    "skill": "platform-wide",
+    "label": "LINE Developers News",
+    "url": "https://developers.line.biz/en/news/"
+  }
+]

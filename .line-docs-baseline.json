@@ -1,97 +1,97 @@
 {
   "https://developers.line.biz/en/docs/liff/": {
-    "checked_at": "2026-04-22T02:00:41Z",
-    "hash": "99d36ce80a5350e1b828156adc36256f41477c094e4895955e3325f37198557c",
+    "checked_at": "2026-09-07T03:34:23Z",
+    "hash": "23f45c96edcd60fbf64461fb162552605683f1e0d6f3f6643f188d4b7883fe82",
     "label": "LIFF overview",
     "skill": "line-liff"
   },
   "https://developers.line.biz/en/docs/line-login/": {
-    "checked_at": "2026-04-22T02:00:38Z",
-    "hash": "1879376c00f3af062b932fedac8e0d434ddc7f313093d8d8d799ea69c2a76188",
+    "checked_at": "2026-09-07T03:34:17Z",
+    "hash": "2bd2b12c9d8a5beaddfebc8a8fa76981549a8e59c83659461a05e1833be1f479",
     "label": "LINE Login overview",
     "skill": "line-login"
   },
   "https://developers.line.biz/en/docs/line-login/integrate-line-login/": {
-    "checked_at": "2026-04-22T02:00:39Z",
-    "hash": "845086015a4c234d9c413df70379efd1fda631b8d6f8951acc151145bbb366b6",
+    "checked_at": "2026-09-07T03:34:19Z",
+    "hash": "0382d173062107a7c7d06559fef41e29669d35f12dfe0634fa0fe132be23b603",
     "label": "LINE Login \u2014 integrate (OAuth/PKCE)",
     "skill": "line-login"
   },
   "https://developers.line.biz/en/docs/line-login/security-checklist/": {
-    "checked_at": "2026-04-22T02:00:40Z",
-    "hash": "7a4c06767c776c9b37e8c295f4314240927731706f8693e8475cc0100b6372ed",
+    "checked_at": "2026-09-07T03:34:21Z",
+    "hash": "692f2a0dbe7d9fc83805561dad93de0f06703a8977c47e42138c0f8c54a8901c",
     "label": "LINE Login security checklist",
     "skill": "line-login"
   },
   "https://developers.line.biz/en/docs/line-mini-app/": {
-    "checked_at": "2026-04-22T02:00:44Z",
-    "hash": "7d2ebc10727c9a9c37cdf2a50dcfd52c9ff6194745ab45caf91c0c8b803e7add",
+    "checked_at": "2026-09-07T03:34:27Z",
+    "hash": "8bf7e5ba9eb59510cd96c4b0733e14fb383c6b73592140fea69e4adab105b9b7",
     "label": "LINE MINI App overview",
     "skill": "line-mini-app"
   },
   "https://developers.line.biz/en/docs/messaging-api/channel-access-tokens/": {
-    "checked_at": "2026-04-22T02:00:32Z",
+    "checked_at": "2026-09-07T03:34:08Z",
     "hash": "3f7cea46ca67ad66dc83f9cfdfdf056288afcffe3addf39d45b0c691d92646f7",
     "label": "Channel access tokens",
     "skill": "messaging-api"
   },
   "https://developers.line.biz/en/docs/messaging-api/flex-message-elements/": {
-    "checked_at": "2026-04-22T02:00:34Z",
+    "checked_at": "2026-09-07T03:34:11Z",
     "hash": "6838ed5eafba5116ebc0467b470d2bf70707d6348fa7a1526dea7bea0862974e",
     "label": "Flex Message elements",
     "skill": "messaging-api"
   },
   "https://developers.line.biz/en/docs/messaging-api/message-types/": {
-    "checked_at": "2026-04-22T02:00:35Z",
+    "checked_at": "2026-09-07T03:34:14Z",
     "hash": "551a5fa63a2069fb17dad7165909b3a91c96689d716f9f6af0883d8ed471ed56",
     "label": "Message types",
     "skill": "messaging-api"
   },
   "https://developers.line.biz/en/docs/messaging-api/receiving-messages/": {
-    "checked_at": "2026-04-22T02:00:31Z",
-    "hash": "1a0a2ca44450c2d3daeb37d03649ec8254061e9150eb416bc214b64657ebac63",
+    "checked_at": "2026-09-07T03:34:06Z",
+    "hash": "63584ea0ec12a48f20f42420c449b24ad6eb8bac4f12776197cb23ea22e5d3a0",
     "label": "Webhook \u2014 receiving messages",
     "skill": "messaging-api"
   },
   "https://developers.line.biz/en/docs/messaging-api/using-rich-menus/": {
-    "checked_at": "2026-04-22T02:00:36Z",
+    "checked_at": "2026-09-07T03:34:16Z",
     "hash": "31af91a04ed551ba93b8590631196daeb9a9d8bf4e6b0e08aa50d41269daca79",
     "label": "Rich menus",
     "skill": "messaging-api"
   },
   "https://developers.line.biz/en/docs/partner-docs/line-notification-messages/overview/": {
-    "checked_at": "2026-04-22T02:00:47Z",
+    "checked_at": "2026-09-07T03:34:31Z",
     "hash": "12f7eb74892e9c18cb2b753a86ddb5631408fcd781dbc0a122ed5f4fe69d56a0",
     "label": "LINE Notification Messages overview",
     "skill": "line-notification-message"
   },
   "https://developers.line.biz/en/docs/partner-docs/line-notification-messages/technical-specs/": {
-    "checked_at": "2026-04-22T02:00:48Z",
+    "checked_at": "2026-09-07T03:34:33Z",
     "hash": "4728ceac96cdaa3afe79efbae576ae315d3fca668f7556219119041a981edd25",
     "label": "LINE Notification Messages technical specs",
     "skill": "line-notification-message"
   },
   "https://developers.line.biz/en/news/": {
-    "checked_at": "2026-04-22T02:00:49Z",
+    "checked_at": "2026-09-07T03:34:34Z",
     "hash": "3f7cea46ca67ad66dc83f9cfdfdf056288afcffe3addf39d45b0c691d92646f7",
     "label": "LINE Developers News",
     "skill": "platform-wide"
   },
   "https://developers.line.biz/en/reference/liff/": {
-    "checked_at": "2026-04-22T02:00:43Z",
-    "hash": "749f53c215afd0196c763990f7a35b2918439911cce595402aec48027128d55f",
+    "checked_at": "2026-09-07T03:34:25Z",
+    "hash": "603dadbd14db293501725deda06a2be5ce9ff2bbbffcea9805ef0e0371c8a383",
     "label": "LIFF API reference",
     "skill": "line-liff"
   },
   "https://developers.line.biz/en/reference/line-mini-app/": {
-    "checked_at": "2026-04-22T02:00:45Z",
-    "hash": "b4c638caa18a5635ab457551d40e457a232faa75bd0c2b0865a29165d188574a",
+    "checked_at": "2026-09-07T03:34:29Z",
+    "hash": "fecbfc6dbe4ae67a2dc3cacc5076c867ccc92cd93ab1ad2818217b7adcc8616b",
     "label": "LINE MINI App API reference",
     "skill": "line-mini-app"
   },
   "https://developers.line.biz/en/reference/messaging-api/": {
-    "checked_at": "2026-04-22T02:00:30Z",
-    "hash": "d3cb238226300392f094f1454909c5ab82d6da63d4a26329cf9be837fbdd56fd",
+    "checked_at": "2026-09-07T03:34:04Z",
+    "hash": "63d900284f84ed5f640fc244b386361851531ad2a2a4d03c64231797a5f53b2f",
     "label": "Messaging API reference overview",
     "skill": "messaging-api"
   }
